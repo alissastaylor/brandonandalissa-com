@@ -17,7 +17,7 @@ const IndexPage = () => (
           <strong>Fendley Farmstead</strong>
           1287 Sardis Rd, Canton, GA 30114
         </p>
-        <a href="https://tendr.com/brandon-and-alissa-petty">Honeymoon Fund</a>
+        <a href="https://tendr.com/brandon-and-alissa-petty">Honeymoon Fund Womp Womp</a>
         <span>or</span>
         <a className="amazon" href="https://www.amazon.com/wedding/share/brandon-and-alissa">Amazon Registry</a>
         <hr />
